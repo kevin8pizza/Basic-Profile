@@ -1,8 +1,31 @@
-.breadcrumb {
-    padding-top: 35px;
+.container {
+    margin: 0px 10%;
 }
 
-.container {
-    margin-left: 10%;
-    margin-right: 10%;
+h1 {
+    line-height: 20px;
+    padding: 20px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    width: 270px;
+}
+
+head {
+    background-color: #ffffff;
+    border-color: #cccccc;
+    border: 2px;
+    width: 100%;
+}
+
+.breadcrumb {
+    padding-top: 35px;
+    background-color: #ffffff;
+}
+
+body {
+    background-image: image("darkness.png")
+}
+
+body {
+    width: 966px;
 }
