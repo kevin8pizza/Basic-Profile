@@ -22,10 +22,30 @@ head {
     background-color: #ffffff;
 }
 
+h2 {
+    color: #4aaaa5;
+    padding: 20px 0px;
+}
+
 body {
-    background-image: image("darkness.png")
+    border: 2px;
+    border-color: #cccccc;
+    padding: 20px;
 }
 
 body {
     width: 966px;
+}
+
+.card-title {
+    background: #4aaaa5;
+    line-height: 20px;
+    width: 275px;
+    color: #ffffff;
+    padding: 5px 100px;
+    margin-top: 0px;
+}
+
+#card-row {
+    float: left;
 }
